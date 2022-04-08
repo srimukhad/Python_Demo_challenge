@@ -1,0 +1,20 @@
+{
+    "sg_1": {
+        "singer_name": "Shreya Ghoshal",
+        "location": "Kolkata",
+        "Calledas": "Melody queen"
+
+    },
+    "sg_2": {
+        "singer_name": "Lathaji",
+        "location": "MUmbai",
+        "Calledas": "NIghtingale of India"
+
+    },
+    "sg_3": {
+        "singer_name": "Balu",
+        "location": "Hyderabad",
+        "Calledas": "Gaanagandharva"
+    }
+
+}    

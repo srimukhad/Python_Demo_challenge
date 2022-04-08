@@ -1,0 +1,10 @@
+,singer_id,date,time,Songs Sang,timestamp,sg_id,channel,Language,singer_name,location,Calledas
+0,,,,,2022-11-02 16:08:00,sg_1,2.0,Hindi,Shreya Ghoshal,Kolkata,Melody queen
+1,,,,,2022-11-02 16:08:00,sg_1,2.0,Telugu,Shreya Ghoshal,Kolkata,Melody queen
+2,,,,,2022-11-02 16:08:00,sg_1,2.0,Kannada,Shreya Ghoshal,Kolkata,Melody queen
+3,,,,,2022-11-02 16:08:00,sg_2,2.0,tamil,Lathaji,MUmbai,NIghtingale of India
+4,,,,,2022-11-02 16:08:00,sg_2,2.0,Hindi,Lathaji,MUmbai,NIghtingale of India
+5,,,,,2022-11-02 16:08:00,sg_2,2.0,Telugu,Lathaji,MUmbai,NIghtingale of India
+6,,,,,2022-11-02 16:08:00,sg_3,2.0,Kannada,Balu,Hyderabad,Gaanagandharva
+7,,,,,2022-11-02 16:08:00,sg_3,2.0,Tamil,Balu,Hyderabad,Gaanagandharva
+8,,,,,2022-11-02 16:08:00,sg_3,2.0,Malayalam,Balu,Hyderabad,Gaanagandharva
